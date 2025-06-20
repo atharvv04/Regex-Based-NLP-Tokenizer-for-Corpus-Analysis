@@ -1,4 +1,4 @@
-# Assignment README
+# README
 
 This repository contains Python scripts to perform various text processing tasks on a corpus. Below are the details of each task performed along with additional information and assumptions made during the process.
 
